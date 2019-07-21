@@ -1,0 +1,54 @@
+.tile-holder {
+  display: flex;
+  flex-flow: row wrap;
+  grid-column: 3 / 4;
+  grid-row: 2 / 3;
+}
+
+.tile-holder > div {
+  background-color: #263859;
+  color: white;
+  width: 100px;
+  margin-right:20px;
+  margin-bottom: 20px;
+  line-height: 45px;
+}
+
+
+.tile-container:hover {
+  transform: translate(0px, -5px)
+}
+
+
+.projects-title {
+    align-self: end;
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+}
+
+.contact {
+  display: table;
+  margin-top: 50px;
+  height: 200px;
+  width: 100%;
+  background-color: rgb(2, 12, 27);
+  text-align: center;
+}
+
+.contact-text {
+  color:white;
+  font-size: 20px;
+  font-family: 'Roboto'
+}
+
+.inner-text {
+  display: table-cell;
+  vertical-align: middle; 
+  padding-left: 25vw;
+  padding-right: 25vw;
+}
+
+.link-text {
+  color: #d13845;
+  text-decoration: underline;
+}

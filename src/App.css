@@ -1,33 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
-  text-align: center;
+  margin: 0;
+}
+body {
+  background-color: #17223b;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.section {
+  width: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.about {
+  display: grid;
+  grid-template-columns: 10vw 50px auto 50px 10vw;
+  grid-template-rows: 30vh auto 40vh;
+} 
+
+.personal {
+  display: grid;
+  grid-template-columns: 10vw 50px auto 50px 10vw;
+  grid-template-rows: 10vh auto;
 }
 
-.App-link {
-  color: #61dafb;
+.experience {
+  display: grid;
+  grid-template-columns: 20vw auto 20vw;
+  grid-template-rows: 25vh auto 25vh;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.projects {
+  display: grid;
+  grid-template-columns: 10vw 50px auto 50px 10vw;
+  grid-template-rows: 15vh auto;
+}
+
+h4 {
+  position:fixed;
+}
+
+.center-item {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+.sectionHeading {
+  font-family: 'Inconsolata';
+  color: #ff6768;
+}
+
+.sectionInside {
+  color:white;
+  font-family: 'Roboto'
+}
+
+.center-end {
+  grid-column: 1 / 6;
+  grid-row: 3 / 4;
+  background-color: #2F2F2F;
 }

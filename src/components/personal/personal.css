@@ -1,0 +1,47 @@
+.about-container {
+    display:inline-grid;
+    grid-template-columns: 60% 40%;
+}
+
+.descripton {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    max-width: 600px;
+}
+
+.text {
+    color: grey;
+    font-size: 15px;
+    line-height: 1.75em;
+}
+
+.technology-list {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    padding-inline-start: 1em;
+    font-family: 'Inconsolata';
+    list-style:none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.technology-list > li:before {
+    content: "";
+    border-color: transparent #ff6768;
+    border-style: solid;
+    border-width: 0.35em 0 0.35em 0.45em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 1.2em;
+    position: relative;
+}
+.image-container {
+    float:right;
+    width:100%;
+    max-width: 300px;
+}

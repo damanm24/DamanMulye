@@ -1,0 +1,79 @@
+.center-grid {
+  grid-column: 2/3;
+  grid-row: 2/3;
+}
+
+ol {
+  padding: 0;
+  margin: 0;
+}
+
+.tabs {
+  display: flex;
+  flex-direction: row;
+}
+
+.tab-content {
+    width: 100%;
+}
+
+.tab-list {
+    color:rgb(96, 106, 134);
+}
+
+.tab-list-item:hover {
+  color: #ff6768;
+  background-color: rgba(255, 103, 104, 0.3);
+}
+
+.tab-list-item {
+  list-style: none;
+  padding: 0.5rem 0.75rem;
+  border-left: 2px solid rgb(51, 63, 88);
+}
+
+.tab-list-active {
+  color: #ff6768;
+  background-color: rgba(255, 103, 104, 0.3);
+  border-left: 2px solid #ff6768;
+}
+
+table {
+    width: 100%;
+}
+
+.cell-menu {
+    width: 200px;
+}
+
+.experience-title {
+    margin: 0;
+    font-family: 'Roboto'
+}
+
+.experience-subtitle {
+    font-family: 'Roboto';
+    margin: 0;
+    margin-top:10px;
+}
+
+.experience-container {
+    margin-left: 10%;
+    color: white;
+}
+.experience-content > li:before {
+    content: "";
+    border-color: transparent #ff6768;
+    border-style: solid;
+    border-width: 0.35em 0 0.35em 0.45em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 0.9em;
+    position: relative;
+}
+
+.experience-content {
+    padding-left: 1em;
+}
