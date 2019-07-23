@@ -20,7 +20,7 @@ export class Projects extends React.Component {
                 description={
                   "A network-graph based recommender system using Spotify API and collaborative filtering algorithm."
                 }
-                tags={["Neo4j", "Spotify API", "React"]}
+                tags={["Neo4j", "Spotify API", "React.js"]}
                 links={["https://github.com/damanm24/Discovir"]}
               />
               <Tile
@@ -43,10 +43,10 @@ export class Projects extends React.Component {
                 ]}
               />
               <Tile
-                name={"Reactive Keyboard"}
-                description="An OpenFrameworks application which uses FFT to analyze the computers audio output and display a graphical visualization along with a visualization that will appear on any Razer Chroma enabled peripheral."
-                tags={["C++", "OpenFrameworks"]}
-                links={["https://github.com/Ethernetz/lyric-visualizer"]}
+                name={"Scan2Plan"}
+                description="An iOS application that uses Optical Character Recognition and Natural Language Processing to extract event information from fliers and add them to the users calendar."
+                tags={["Swift", "Google's MLKit", "Swift Natural Language Processing"]}
+                links={["https://github.com/jookimmy/scan2plan"]}
               />
               <Tile
                 name={"HTMLHint"}
