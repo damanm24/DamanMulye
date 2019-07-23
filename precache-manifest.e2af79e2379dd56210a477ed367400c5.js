@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e00a5f5167f43eeec747adf7154a9e4f",
+    "revision": "12efaff5be07215f13c272c59b1e1e0c",
     "url": "/DamanMulye/index.html"
   },
   {
-    "revision": "b06c7cd4ab40882a5095",
+    "revision": "e1c62b1136de58434b4a",
     "url": "/DamanMulye/static/css/main.ba2e6f34.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DamanMulye/static/js/2.889f1f44.chunk.js"
   },
   {
-    "revision": "b06c7cd4ab40882a5095",
-    "url": "/DamanMulye/static/js/main.7bf54ac9.chunk.js"
+    "revision": "e1c62b1136de58434b4a",
+    "url": "/DamanMulye/static/js/main.25bd14e3.chunk.js"
   },
   {
     "revision": "f794b9db2631827410f9",
