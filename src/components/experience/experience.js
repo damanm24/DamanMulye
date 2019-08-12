@@ -64,7 +64,7 @@ export const Experience = () => {
               <h3 className="experience-subtitle">Summer 2019</h3>
               <ul className="experience-content text">
                 <li>
-                Designed, implemented, tested and deployed a content management system for the Esports team, <a href="www.kungarna.com">Kungarna.</a>
+                Designed, implemented, tested and deployed a content management system for the Esports team, <a href="http://www.kungarna.com" target="_blank" style={{color: "#ff6768"}}>Kungarna.</a>
                 </li>
                 <li>
                 Website receives over 1000 daily active users, and on peak receives 5000 active users.
