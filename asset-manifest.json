@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DamanMulye/static/css/main.ba2e6f34.chunk.css",
-    "main.js": "/DamanMulye/static/js/main.25bd14e3.chunk.js",
-    "main.js.map": "/DamanMulye/static/js/main.25bd14e3.chunk.js.map",
+    "main.js": "/DamanMulye/static/js/main.206796ea.chunk.js",
+    "main.js.map": "/DamanMulye/static/js/main.206796ea.chunk.js.map",
     "runtime~main.js": "/DamanMulye/static/js/runtime~main.c130ef05.js",
     "runtime~main.js.map": "/DamanMulye/static/js/runtime~main.c130ef05.js.map",
     "static/js/2.889f1f44.chunk.js": "/DamanMulye/static/js/2.889f1f44.chunk.js",
     "static/js/2.889f1f44.chunk.js.map": "/DamanMulye/static/js/2.889f1f44.chunk.js.map",
     "index.html": "/DamanMulye/index.html",
-    "precache-manifest.e2af79e2379dd56210a477ed367400c5.js": "/DamanMulye/precache-manifest.e2af79e2379dd56210a477ed367400c5.js",
+    "precache-manifest.0a1fea57aede56ac0db06323816461fe.js": "/DamanMulye/precache-manifest.0a1fea57aede56ac0db06323816461fe.js",
     "service-worker.js": "/DamanMulye/service-worker.js",
     "static/css/main.ba2e6f34.chunk.css.map": "/DamanMulye/static/css/main.ba2e6f34.chunk.css.map",
-    "static/media/DamansResume.pdf": "/DamanMulye/static/media/DamansResume.8c69ab74.pdf",
+    "static/media/DamansResume.pdf": "/DamanMulye/static/media/DamansResume.b2e65d32.pdf",
     "static/media/background.JPG": "/DamanMulye/static/media/background.b26cba3e.JPG",
     "static/media/daman.jpg": "/DamanMulye/static/media/daman.b819bfae.jpg"
   }

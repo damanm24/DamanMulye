@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12efaff5be07215f13c272c59b1e1e0c",
+    "revision": "43110266185d07d4c5a2a01b5ca4f7eb",
     "url": "/DamanMulye/index.html"
   },
   {
-    "revision": "e1c62b1136de58434b4a",
+    "revision": "3985b4c5dac97f387618",
     "url": "/DamanMulye/static/css/main.ba2e6f34.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DamanMulye/static/js/2.889f1f44.chunk.js"
   },
   {
-    "revision": "e1c62b1136de58434b4a",
-    "url": "/DamanMulye/static/js/main.25bd14e3.chunk.js"
+    "revision": "3985b4c5dac97f387618",
+    "url": "/DamanMulye/static/js/main.206796ea.chunk.js"
   },
   {
     "revision": "f794b9db2631827410f9",
     "url": "/DamanMulye/static/js/runtime~main.c130ef05.js"
   },
   {
-    "revision": "8c69ab74a012df8a9b71a6d0edc58015",
-    "url": "/DamanMulye/static/media/DamansResume.8c69ab74.pdf"
+    "revision": "b2e65d32edfd603ee102bd668ff8efb7",
+    "url": "/DamanMulye/static/media/DamansResume.b2e65d32.pdf"
   },
   {
     "revision": "b26cba3e9fbded18fb21f56cc9798da2",
