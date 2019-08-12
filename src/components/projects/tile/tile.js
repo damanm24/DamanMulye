@@ -18,12 +18,12 @@ const Tile = ({ name, links, description, tags }) => {
         iconToUse = faGlobe
       }
       return (
-        <a href={link}>
+        <a href={link} target="_blank">
           <FontAwesomeIcon
             style={{ paddingBottom: 0, paddingRight: 15 }}
             icon={iconToUse}
             className="icon"
-            size="1x"
+            size="lg"
           />
         </a>
       );
@@ -45,6 +45,7 @@ const Tile = ({ name, links, description, tags }) => {
             color="#ff6768"
             icon={faTerminal}
             className=""
+            size="lg"
           />
         </div>
         <div className="folder-icons">{map_links(links)}</div>

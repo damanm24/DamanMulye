@@ -58,6 +58,23 @@ export const Experience = () => {
               </ul>
             </div>
           </div>
+          <div label="Freelance Work">
+            <div className="experience-container">
+              <h1 className="experience-title">Full Stack Web Developer</h1>
+              <h3 className="experience-subtitle">Summer 2019</h3>
+              <ul className="experience-content text">
+                <li>
+                Designed, implemented, tested and deployed a content management system for the Esports team, <a href="www.kungarna.com">Kungarna.</a>
+                </li>
+                <li>
+                Website receives over 1000 daily active users, and on peak receives 5000 active users.
+                </li>
+                <li>
+                Built with MongoDB, ExpressJS, React, Node.js, utilizes Amazon S3 for storage of assets, and deployed using Heroku .
+                </li>
+              </ul>
+            </div>
+          </div>
         </Tabs>
       </div>
     </div>
